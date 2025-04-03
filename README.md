@@ -11,4 +11,6 @@ Ez az egyszerű Flutter alkalmazás egy publikus Google Drive mappából listáz
 1. Add meg a saját Google API kulcsodat a `main.dart` fájlban. - benne hagytam egyet
 2. Futtasd Android Studio-ból vagy `flutter run` paranccsal.
 
+3. Vagy a realseben csak töltsd le az APK filet és telepitsd egy androidos telefonra
+
 Publikus Google Drive mappa: https://drive.google.com/drive/folders/1HeOneOTCTcdgyjSO-DaWb4-Zuu9pKlQV
