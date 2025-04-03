@@ -1,4 +1,4 @@
-# Stress-Pass Video App
+#Video App
 
 Ez az egyszerű Flutter alkalmazás egy publikus Google Drive mappából listáz videókat, majd lejátsza őket.
 
